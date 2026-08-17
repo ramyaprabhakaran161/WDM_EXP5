@@ -146,15 +146,15 @@ if __name__ == "__main__":
         print("No results found for the query.")
 ```
 ### Output:
-## OR
+### OR
 
 <img width="1055" height="375" alt="image" src="https://github.com/user-attachments/assets/a528cf69-fbc3-4050-bf5e-a2222b13b288" />
 
-## AND
+### AND
 
 <img width="1052" height="360" alt="image" src="https://github.com/user-attachments/assets/5d28a353-220d-4878-b09d-2de58d0fef06" />
 
-## NOT
+### NOT
 
 <img width="1047" height="370" alt="image" src="https://github.com/user-attachments/assets/c70354dd-92ff-43aa-9bab-e5df18a05bc3" />
 
